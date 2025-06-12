@@ -2,7 +2,7 @@
 A modern, responsive Book Management Dashboard built using React, Tailwind CSS (with DaisyUI), Framer Motion, and React Hook Form. It includes features like book listing, adding, editing, deleting, and animated loading skeletons for a better user experience.
 
 🔗 Live Application  
-➡️ Visit [BookDashboard]([book-dashboard-gamma.vercel.app/](https://book-dashboard-gamma.vercel.app/))
+➡️ Visit [BookDashboard](https://book-dashboard-gamma.vercel.app/)
 
 This will take you directly to the BookDashboard.
 
