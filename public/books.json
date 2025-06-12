@@ -1,0 +1,1642 @@
+[
+    {
+        "id": 1,
+        "title": "Corn Tortillas",
+        "author": "Keelby Shane",
+        "genre": "Sci-Fi",
+        "publishedYear": 2003,
+        "coverImage": "https://picsum.photos/200/300?random=1"
+    },
+    {
+        "id": 2,
+        "title": "Pineapple Coconut Bars",
+        "author": "Catie Stallworthy",
+        "genre": "Self-Help",
+        "publishedYear": 1999,
+        "coverImage": "https://picsum.photos/200/300?random=2"
+    },
+    {
+        "id": 3,
+        "title": "Ripped Boyfriend Jeans",
+        "author": "Gertrude Weatherdon",
+        "genre": "Biography",
+        "publishedYear": 1982,
+        "coverImage": "https://picsum.photos/200/300?random=3"
+    },
+    {
+        "id": 4,
+        "title": "Pizza Stone",
+        "author": "Shel Hargitt",
+        "genre": "Fiction",
+        "publishedYear": 1990,
+        "coverImage": "https://picsum.photos/200/300?random=4"
+    },
+    {
+        "id": 5,
+        "title": "Asian Stir-Fry Kit",
+        "author": "Emmie Rewan",
+        "genre": "Fantasy",
+        "publishedYear": 2001,
+        "coverImage": "https://picsum.photos/200/300?random=5"
+    },
+    {
+        "id": 6,
+        "title": "Free-Range Eggs",
+        "author": "Huey Ferrulli",
+        "genre": "Self-Help",
+        "publishedYear": 2014,
+        "coverImage": "https://picsum.photos/200/300?random=6"
+    },
+    {
+        "id": 7,
+        "title": "Maple Cinnamon Granola Bars",
+        "author": "Grove Hubback",
+        "genre": "Sci-Fi",
+        "publishedYear": 2002,
+        "coverImage": "https://picsum.photos/200/300?random=7"
+    },
+    {
+        "id": 8,
+        "title": "Personal Blender",
+        "author": "Clemmy Tellenbach",
+        "genre": "Sci-Fi",
+        "publishedYear": 2009,
+        "coverImage": "https://picsum.photos/200/300?random=8"
+    },
+    {
+        "id": 9,
+        "title": "Adjustable Resistance Bands",
+        "author": "Dennison Seiter",
+        "genre": "Biography",
+        "publishedYear": 1974,
+        "coverImage": "https://picsum.photos/200/300?random=9"
+    },
+    {
+        "id": 10,
+        "title": "Shower Curtain Hooks",
+        "author": "Aldon Amort",
+        "genre": "Fantasy",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=10"
+    },
+    {
+        "id": 11,
+        "title": "Homestyle Chicken Noodle Soup",
+        "author": "Ingrim Staresmeare",
+        "genre": "Mystery",
+        "publishedYear": 1996,
+        "coverImage": "https://picsum.photos/200/300?random=11"
+    },
+    {
+        "id": 12,
+        "title": "Beef Enchilada Casserole",
+        "author": "Becca L'argent",
+        "genre": "Biography",
+        "publishedYear": 1988,
+        "coverImage": "https://picsum.photos/200/300?random=12"
+    },
+    {
+        "id": 13,
+        "title": "Protein Powder",
+        "author": "Kakalina Mattiussi",
+        "genre": "Fantasy",
+        "publishedYear": 2004,
+        "coverImage": "https://picsum.photos/200/300?random=13"
+    },
+    {
+        "id": 14,
+        "title": "Wild Rice Pilaf",
+        "author": "Simeon Longmate",
+        "genre": "Self-Help",
+        "publishedYear": 2013,
+        "coverImage": "https://picsum.photos/200/300?random=14"
+    },
+    {
+        "id": 15,
+        "title": "Organic Honeycrisp Apples",
+        "author": "Carr Harniman",
+        "genre": "Fiction",
+        "publishedYear": 1972,
+        "coverImage": "https://picsum.photos/200/300?random=15"
+    },
+    {
+        "id": 16,
+        "title": "Kids' Gardening Kit",
+        "author": "Brose Everly",
+        "genre": "Biography",
+        "publishedYear": 1983,
+        "coverImage": "https://picsum.photos/200/300?random=16"
+    },
+    {
+        "id": 17,
+        "title": "Poppy Seed Dressing",
+        "author": "Adolphus Orbine",
+        "genre": "Self-Help",
+        "publishedYear": 2000,
+        "coverImage": "https://picsum.photos/200/300?random=17"
+    },
+    {
+        "id": 18,
+        "title": "Natural Soy Candles",
+        "author": "Stacie Sandaver",
+        "genre": "Thriller",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=18"
+    },
+    {
+        "id": 19,
+        "title": "Smart Doorbell",
+        "author": "Vinny Wayon",
+        "genre": "Sci-Fi",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=19"
+    },
+    {
+        "id": 20,
+        "title": "Watercolor Paint Set",
+        "author": "Wendell Stanyon",
+        "genre": "Romance",
+        "publishedYear": 1992,
+        "coverImage": "https://picsum.photos/200/300?random=20"
+    },
+    {
+        "id": 21,
+        "title": "Portable Grill Cover",
+        "author": "Christin Revans",
+        "genre": "Sci-Fi",
+        "publishedYear": 2021,
+        "coverImage": "https://picsum.photos/200/300?random=21"
+    },
+    {
+        "id": 22,
+        "title": "Photo Album",
+        "author": "Brynn Cottem",
+        "genre": "Romance",
+        "publishedYear": 2022,
+        "coverImage": "https://picsum.photos/200/300?random=22"
+    },
+    {
+        "id": 23,
+        "title": "Camping Tent",
+        "author": "Justine Briat",
+        "genre": "Fantasy",
+        "publishedYear": 1998,
+        "coverImage": "https://picsum.photos/200/300?random=23"
+    },
+    {
+        "id": 24,
+        "title": "Durable Hiking Boots",
+        "author": "Maddy Noice",
+        "genre": "Sci-Fi",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=24"
+    },
+    {
+        "id": 25,
+        "title": "Luxury Bath Robe",
+        "author": "Selma Mahmood",
+        "genre": "Sci-Fi",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=25"
+    },
+    {
+        "id": 26,
+        "title": "Sriracha Sauce",
+        "author": "Dionne Madeley",
+        "genre": "Fiction",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=26"
+    },
+    {
+        "id": 27,
+        "title": "Coconut Cream Pie",
+        "author": "Bail Barke",
+        "genre": "Thriller",
+        "publishedYear": 1996,
+        "coverImage": "https://picsum.photos/200/300?random=27"
+    },
+    {
+        "id": 28,
+        "title": "Almond Quinoa Salad",
+        "author": "Kylynn Lamkin",
+        "genre": "Fantasy",
+        "publishedYear": 1983,
+        "coverImage": "https://picsum.photos/200/300?random=28"
+    },
+    {
+        "id": 29,
+        "title": "Peach Preserves",
+        "author": "Ashlee Adran",
+        "genre": "Thriller",
+        "publishedYear": 1982,
+        "coverImage": "https://picsum.photos/200/300?random=29"
+    },
+    {
+        "id": 30,
+        "title": "Vegetable Spiralizer",
+        "author": "Archibaldo Strutton",
+        "genre": "Thriller",
+        "publishedYear": 2018,
+        "coverImage": "https://picsum.photos/200/300?random=30"
+    },
+    {
+        "id": 31,
+        "title": "Smoked Salmon",
+        "author": "Domenico Sopp",
+        "genre": "Biography",
+        "publishedYear": 2005,
+        "coverImage": "https://picsum.photos/200/300?random=31"
+    },
+    {
+        "id": 32,
+        "title": "Pet Carrier Backpack",
+        "author": "Cloris Mynard",
+        "genre": "Thriller",
+        "publishedYear": 2002,
+        "coverImage": "https://picsum.photos/200/300?random=32"
+    },
+    {
+        "id": 33,
+        "title": "Cinnamon Sugar Donuts",
+        "author": "Andy Larrad",
+        "genre": "Sci-Fi",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=33"
+    },
+    {
+        "id": 34,
+        "title": "Gardening Tools Set",
+        "author": "Valerie Grinaway",
+        "genre": "Sci-Fi",
+        "publishedYear": 1985,
+        "coverImage": "https://picsum.photos/200/300?random=34"
+    },
+    {
+        "id": 35,
+        "title": "Crispy Kale Chips",
+        "author": "Maggi Minshall",
+        "genre": "Biography",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=35"
+    },
+    {
+        "id": 36,
+        "title": "French Onion Dip",
+        "author": "Murvyn Poole",
+        "genre": "Fiction",
+        "publishedYear": 1974,
+        "coverImage": "https://picsum.photos/200/300?random=36"
+    },
+    {
+        "id": 37,
+        "title": "Tomato Sauce",
+        "author": "Cybil Talman",
+        "genre": "Self-Help",
+        "publishedYear": 1996,
+        "coverImage": "https://picsum.photos/200/300?random=37"
+    },
+    {
+        "id": 38,
+        "title": "Italian Breadsticks",
+        "author": "Rossy Rivitt",
+        "genre": "Self-Help",
+        "publishedYear": 2021,
+        "coverImage": "https://picsum.photos/200/300?random=38"
+    },
+    {
+        "id": 39,
+        "title": "Strawberry Rhubarb Jam",
+        "author": "Nicolle Shoosmith",
+        "genre": "Fiction",
+        "publishedYear": 1976,
+        "coverImage": "https://picsum.photos/200/300?random=39"
+    },
+    {
+        "id": 40,
+        "title": "Almond Butter Cookies",
+        "author": "Marlyn Henner",
+        "genre": "Fiction",
+        "publishedYear": 2012,
+        "coverImage": "https://picsum.photos/200/300?random=40"
+    },
+    {
+        "id": 41,
+        "title": "Mobile Workbench",
+        "author": "Rozalie Scrivner",
+        "genre": "Thriller",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=41"
+    },
+    {
+        "id": 42,
+        "title": "Italian Marinara Sauce",
+        "author": "La verne Nutbean",
+        "genre": "Biography",
+        "publishedYear": 2020,
+        "coverImage": "https://picsum.photos/200/300?random=42"
+    },
+    {
+        "id": 43,
+        "title": "Vegan Chocolate Cake Mix",
+        "author": "Briney Baigent",
+        "genre": "Self-Help",
+        "publishedYear": 2002,
+        "coverImage": "https://picsum.photos/200/300?random=43"
+    },
+    {
+        "id": 44,
+        "title": "Almond Flour Brownies",
+        "author": "Eyde Timeby",
+        "genre": "Fantasy",
+        "publishedYear": 1990,
+        "coverImage": "https://picsum.photos/200/300?random=44"
+    },
+    {
+        "id": 45,
+        "title": "Blueberry Oatmeal Cups",
+        "author": "Rinaldo Breede",
+        "genre": "Romance",
+        "publishedYear": 2009,
+        "coverImage": "https://picsum.photos/200/300?random=45"
+    },
+    {
+        "id": 46,
+        "title": "Automatic Pet Feeder",
+        "author": "Bobbie Skatcher",
+        "genre": "Mystery",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=46"
+    },
+    {
+        "id": 47,
+        "title": "Black Bean Soup",
+        "author": "Constantia Dyball",
+        "genre": "Romance",
+        "publishedYear": 2001,
+        "coverImage": "https://picsum.photos/200/300?random=47"
+    },
+    {
+        "id": 48,
+        "title": "Vanilla Pudding Mix",
+        "author": "Boigie Gilardone",
+        "genre": "Self-Help",
+        "publishedYear": 1976,
+        "coverImage": "https://picsum.photos/200/300?random=48"
+    },
+    {
+        "id": 49,
+        "title": "Chickpea Pancakes",
+        "author": "Dolores Pim",
+        "genre": "Mystery",
+        "publishedYear": 1970,
+        "coverImage": "https://picsum.photos/200/300?random=49"
+    },
+    {
+        "id": 50,
+        "title": "Camping Tent",
+        "author": "Danella Riepl",
+        "genre": "Mystery",
+        "publishedYear": 2022,
+        "coverImage": "https://picsum.photos/200/300?random=50"
+    },
+    {
+        "id": 51,
+        "title": "Lentil Soup",
+        "author": "Stanislaw McNiven",
+        "genre": "Thriller",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=51"
+    },
+    {
+        "id": 52,
+        "title": "Car Emergency Kit",
+        "author": "Oswald Mara",
+        "genre": "Fantasy",
+        "publishedYear": 1983,
+        "coverImage": "https://picsum.photos/200/300?random=52"
+    },
+    {
+        "id": 53,
+        "title": "Elderberry Syrup Kit",
+        "author": "Alister Caroline",
+        "genre": "Mystery",
+        "publishedYear": 1988,
+        "coverImage": "https://picsum.photos/200/300?random=53"
+    },
+    {
+        "id": 54,
+        "title": "Chickpea Snack Mix",
+        "author": "Alphonso O'Rodane",
+        "genre": "Romance",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=54"
+    },
+    {
+        "id": 55,
+        "title": "Rice Noodles",
+        "author": "Roxi McCaughren",
+        "genre": "Biography",
+        "publishedYear": 1971,
+        "coverImage": "https://picsum.photos/200/300?random=55"
+    },
+    {
+        "id": 56,
+        "title": "Ceramic Bakeware Set",
+        "author": "Wolfie Kippin",
+        "genre": "Thriller",
+        "publishedYear": 2016,
+        "coverImage": "https://picsum.photos/200/300?random=56"
+    },
+    {
+        "id": 57,
+        "title": "Lemon Sorbet",
+        "author": "Grace Fundell",
+        "genre": "Thriller",
+        "publishedYear": 1985,
+        "coverImage": "https://picsum.photos/200/300?random=57"
+    },
+    {
+        "id": 58,
+        "title": "High-Speed HDMI Cable",
+        "author": "Gordan Dunsford",
+        "genre": "Mystery",
+        "publishedYear": 2006,
+        "coverImage": "https://picsum.photos/200/300?random=58"
+    },
+    {
+        "id": 59,
+        "title": "Chia Seed Pudding",
+        "author": "Erv Doiley",
+        "genre": "Mystery",
+        "publishedYear": 2005,
+        "coverImage": "https://picsum.photos/200/300?random=59"
+    },
+    {
+        "id": 60,
+        "title": "Artisan Bread Loaf",
+        "author": "Padget Dawidowitsch",
+        "genre": "Romance",
+        "publishedYear": 2000,
+        "coverImage": "https://picsum.photos/200/300?random=60"
+    },
+    {
+        "id": 61,
+        "title": "Beef Stroganoff Mix",
+        "author": "Dorita Altimas",
+        "genre": "Fiction",
+        "publishedYear": 1992,
+        "coverImage": "https://picsum.photos/200/300?random=61"
+    },
+    {
+        "id": 62,
+        "title": "Raisin Cinnamon Granola",
+        "author": "Quintina Molson",
+        "genre": "Biography",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=62"
+    },
+    {
+        "id": 63,
+        "title": "Roasted Garlic Pasta Sauce",
+        "author": "Kizzee Rolfe",
+        "genre": "Biography",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=63"
+    },
+    {
+        "id": 64,
+        "title": "Smashed Avocado with Lime",
+        "author": "Briny Cranmor",
+        "genre": "Sci-Fi",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=64"
+    },
+    {
+        "id": 65,
+        "title": "Inspirational Wall Art",
+        "author": "Karylin Brandon",
+        "genre": "Sci-Fi",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=65"
+    },
+    {
+        "id": 66,
+        "title": "Falafel Mix",
+        "author": "Charmine Emor",
+        "genre": "Sci-Fi",
+        "publishedYear": 1991,
+        "coverImage": "https://picsum.photos/200/300?random=66"
+    },
+    {
+        "id": 67,
+        "title": "Sculpting Kit",
+        "author": "Hally Andrez",
+        "genre": "Romance",
+        "publishedYear": 2019,
+        "coverImage": "https://picsum.photos/200/300?random=67"
+    },
+    {
+        "id": 68,
+        "title": "Pet Grooming Scissors",
+        "author": "Ibby Martineau",
+        "genre": "Self-Help",
+        "publishedYear": 2007,
+        "coverImage": "https://picsum.photos/200/300?random=68"
+    },
+    {
+        "id": 69,
+        "title": "Chia Seeds",
+        "author": "Susanne Keave",
+        "genre": "Mystery",
+        "publishedYear": 2006,
+        "coverImage": "https://picsum.photos/200/300?random=69"
+    },
+    {
+        "id": 70,
+        "title": "Sweet Corn Fritters",
+        "author": "Ara Queyeiro",
+        "genre": "Thriller",
+        "publishedYear": 1985,
+        "coverImage": "https://picsum.photos/200/300?random=70"
+    },
+    {
+        "id": 71,
+        "title": "Chickpeas",
+        "author": "Starlin Britton",
+        "genre": "Mystery",
+        "publishedYear": 1977,
+        "coverImage": "https://picsum.photos/200/300?random=71"
+    },
+    {
+        "id": 72,
+        "title": "Maple Pecan Pancake Mix",
+        "author": "Francesca Kmieciak",
+        "genre": "Thriller",
+        "publishedYear": 2022,
+        "coverImage": "https://picsum.photos/200/300?random=72"
+    },
+    {
+        "id": 73,
+        "title": "Kids' STEM Robotics Kit",
+        "author": "Christine Larcombe",
+        "genre": "Mystery",
+        "publishedYear": 2003,
+        "coverImage": "https://picsum.photos/200/300?random=73"
+    },
+    {
+        "id": 74,
+        "title": "Portable Massage Gun",
+        "author": "Gram McCurlye",
+        "genre": "Romance",
+        "publishedYear": 1971,
+        "coverImage": "https://picsum.photos/200/300?random=74"
+    },
+    {
+        "id": 75,
+        "title": "Fruit & Nut Trail Mix",
+        "author": "Kesley Scobbie",
+        "genre": "Fiction",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=75"
+    },
+    {
+        "id": 76,
+        "title": "Coconut Cream",
+        "author": "Terrye Van Der Hoog",
+        "genre": "Sci-Fi",
+        "publishedYear": 1988,
+        "coverImage": "https://picsum.photos/200/300?random=76"
+    },
+    {
+        "id": 77,
+        "title": "Waterproof Rain Boots",
+        "author": "Nona Harsent",
+        "genre": "Sci-Fi",
+        "publishedYear": 1977,
+        "coverImage": "https://picsum.photos/200/300?random=77"
+    },
+    {
+        "id": 78,
+        "title": "White Rice",
+        "author": "Ernaline Fullstone",
+        "genre": "Biography",
+        "publishedYear": 2020,
+        "coverImage": "https://picsum.photos/200/300?random=78"
+    },
+    {
+        "id": 79,
+        "title": "Fitness Resistance Bands",
+        "author": "Archibaldo Ferroni",
+        "genre": "Thriller",
+        "publishedYear": 1970,
+        "coverImage": "https://picsum.photos/200/300?random=79"
+    },
+    {
+        "id": 80,
+        "title": "Travel Organizer",
+        "author": "Beltran Amiable",
+        "genre": "Romance",
+        "publishedYear": 1972,
+        "coverImage": "https://picsum.photos/200/300?random=80"
+    },
+    {
+        "id": 81,
+        "title": "Wall Planner",
+        "author": "Marni Champerlen",
+        "genre": "Biography",
+        "publishedYear": 2015,
+        "coverImage": "https://picsum.photos/200/300?random=81"
+    },
+    {
+        "id": 82,
+        "title": "Artisan Pickles",
+        "author": "Cathleen Sprague",
+        "genre": "Fiction",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=82"
+    },
+    {
+        "id": 83,
+        "title": "Slim Wallet",
+        "author": "Ilsa Kener",
+        "genre": "Self-Help",
+        "publishedYear": 1987,
+        "coverImage": "https://picsum.photos/200/300?random=83"
+    },
+    {
+        "id": 84,
+        "title": "Smartphone Gimbal",
+        "author": "Mallory Tremberth",
+        "genre": "Biography",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=84"
+    },
+    {
+        "id": 85,
+        "title": "Legging Pants",
+        "author": "Merill Kabos",
+        "genre": "Sci-Fi",
+        "publishedYear": 2001,
+        "coverImage": "https://picsum.photos/200/300?random=85"
+    },
+    {
+        "id": 86,
+        "title": "Chocolate Raspberry Tart",
+        "author": "Daniela Drabble",
+        "genre": "Biography",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=86"
+    },
+    {
+        "id": 87,
+        "title": "Memory Foam Pillow",
+        "author": "Humbert Brockway",
+        "genre": "Sci-Fi",
+        "publishedYear": 2021,
+        "coverImage": "https://picsum.photos/200/300?random=87"
+    },
+    {
+        "id": 88,
+        "title": "Smartphone Gimbal Stabilizer",
+        "author": "Mickey Goodanew",
+        "genre": "Self-Help",
+        "publishedYear": 1989,
+        "coverImage": "https://picsum.photos/200/300?random=88"
+    },
+    {
+        "id": 89,
+        "title": "Digital Alarm Clock",
+        "author": "Giustino Baddoe",
+        "genre": "Sci-Fi",
+        "publishedYear": 2016,
+        "coverImage": "https://picsum.photos/200/300?random=89"
+    },
+    {
+        "id": 90,
+        "title": "Wildflower Honey",
+        "author": "Clarie Rearden",
+        "genre": "Romance",
+        "publishedYear": 1998,
+        "coverImage": "https://picsum.photos/200/300?random=90"
+    },
+    {
+        "id": 91,
+        "title": "Raspberry Vanilla Greek Yogurt",
+        "author": "Joel Lubomirski",
+        "genre": "Romance",
+        "publishedYear": 2006,
+        "coverImage": "https://picsum.photos/200/300?random=91"
+    },
+    {
+        "id": 92,
+        "title": "Cranberry Citrus Sauce",
+        "author": "Marybelle Geck",
+        "genre": "Fantasy",
+        "publishedYear": 2004,
+        "coverImage": "https://picsum.photos/200/300?random=92"
+    },
+    {
+        "id": 93,
+        "title": "Peach Fruit Cups",
+        "author": "Sandi Dovinson",
+        "genre": "Romance",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=93"
+    },
+    {
+        "id": 94,
+        "title": "Biodegradable Trash Bags",
+        "author": "Samara Gillise",
+        "genre": "Sci-Fi",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=94"
+    },
+    {
+        "id": 95,
+        "title": "Multicolored LED Strip Lights",
+        "author": "Edie Falks",
+        "genre": "Biography",
+        "publishedYear": 2001,
+        "coverImage": "https://picsum.photos/200/300?random=95"
+    },
+    {
+        "id": 96,
+        "title": "Reusable Coffee Filter",
+        "author": "Samuel Heckney",
+        "genre": "Sci-Fi",
+        "publishedYear": 2010,
+        "coverImage": "https://picsum.photos/200/300?random=96"
+    },
+    {
+        "id": 97,
+        "title": "LED Desk Light",
+        "author": "Hugh Stones",
+        "genre": "Fantasy",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=97"
+    },
+    {
+        "id": 98,
+        "title": "Magnetic Spice Jars",
+        "author": "Gwenora Atthow",
+        "genre": "Thriller",
+        "publishedYear": 2005,
+        "coverImage": "https://picsum.photos/200/300?random=98"
+    },
+    {
+        "id": 99,
+        "title": "Deluxe First Aid Kit",
+        "author": "Rodrick Jannasch",
+        "genre": "Biography",
+        "publishedYear": 2020,
+        "coverImage": "https://picsum.photos/200/300?random=99"
+    },
+    {
+        "id": 100,
+        "title": "Fitness Tracker Band",
+        "author": "Demetri Avramovich",
+        "genre": "Thriller",
+        "publishedYear": 2015,
+        "coverImage": "https://picsum.photos/200/300?random=100"
+    },
+    {
+        "id": 101,
+        "title": "Cucumber Relish",
+        "author": "Stanislaw Cremin",
+        "genre": "Sci-Fi",
+        "publishedYear": 2003,
+        "coverImage": "https://picsum.photos/200/300?random=101"
+    },
+    {
+        "id": 102,
+        "title": "Pineapple Rings",
+        "author": "Keely Gimblett",
+        "genre": "Mystery",
+        "publishedYear": 2009,
+        "coverImage": "https://picsum.photos/200/300?random=102"
+    },
+    {
+        "id": 103,
+        "title": "Portable Solar Path Lights",
+        "author": "Nye Greenall",
+        "genre": "Mystery",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=103"
+    },
+    {
+        "id": 104,
+        "title": "Brussels Sprouts",
+        "author": "Alli Nassey",
+        "genre": "Biography",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=104"
+    },
+    {
+        "id": 105,
+        "title": "Cajun Seasoning",
+        "author": "Kristine Owain",
+        "genre": "Mystery",
+        "publishedYear": 2005,
+        "coverImage": "https://picsum.photos/200/300?random=105"
+    },
+    {
+        "id": 106,
+        "title": "Pet Training Clicker",
+        "author": "Alta Shenton",
+        "genre": "Thriller",
+        "publishedYear": 1976,
+        "coverImage": "https://picsum.photos/200/300?random=106"
+    },
+    {
+        "id": 107,
+        "title": "Stylish Wide-Leg Trousers",
+        "author": "Aloin Crebo",
+        "genre": "Fiction",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=107"
+    },
+    {
+        "id": 108,
+        "title": "Tailgating Set",
+        "author": "Andriette Langelay",
+        "genre": "Self-Help",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=108"
+    },
+    {
+        "id": 109,
+        "title": "Eco-Friendly Yoga Mat",
+        "author": "Randy O'Fergus",
+        "genre": "Romance",
+        "publishedYear": 1977,
+        "coverImage": "https://picsum.photos/200/300?random=109"
+    },
+    {
+        "id": 110,
+        "title": "Frozen Edamame",
+        "author": "Sibylle Ottey",
+        "genre": "Sci-Fi",
+        "publishedYear": 2015,
+        "coverImage": "https://picsum.photos/200/300?random=110"
+    },
+    {
+        "id": 111,
+        "title": "Pork Chops",
+        "author": "Zabrina Ansley",
+        "genre": "Self-Help",
+        "publishedYear": 2015,
+        "coverImage": "https://picsum.photos/200/300?random=111"
+    },
+    {
+        "id": 112,
+        "title": "LED Desk Lamp with USB Charging Port",
+        "author": "Cassey Tunuy",
+        "genre": "Self-Help",
+        "publishedYear": 1974,
+        "coverImage": "https://picsum.photos/200/300?random=112"
+    },
+    {
+        "id": 113,
+        "title": "Thai Red Curry Paste",
+        "author": "Clementius Shelliday",
+        "genre": "Romance",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=113"
+    },
+    {
+        "id": 114,
+        "title": "Avocado Oil",
+        "author": "Aubrie Inmett",
+        "genre": "Biography",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=114"
+    },
+    {
+        "id": 115,
+        "title": "Kitchen Knife Sharpening System",
+        "author": "Adena Paull",
+        "genre": "Biography",
+        "publishedYear": 1994,
+        "coverImage": "https://picsum.photos/200/300?random=115"
+    },
+    {
+        "id": 116,
+        "title": "Natural Soy Candles",
+        "author": "Hamlin Crole",
+        "genre": "Romance",
+        "publishedYear": 2013,
+        "coverImage": "https://picsum.photos/200/300?random=116"
+    },
+    {
+        "id": 117,
+        "title": "Spicy Chicken Wings",
+        "author": "Gilligan Strowlger",
+        "genre": "Romance",
+        "publishedYear": 2000,
+        "coverImage": "https://picsum.photos/200/300?random=117"
+    },
+    {
+        "id": 118,
+        "title": "Vegan Tacos",
+        "author": "Ebony Pawlaczyk",
+        "genre": "Romance",
+        "publishedYear": 2008,
+        "coverImage": "https://picsum.photos/200/300?random=118"
+    },
+    {
+        "id": 119,
+        "title": "Basmati Rice",
+        "author": "Elbertina Hearns",
+        "genre": "Romance",
+        "publishedYear": 2004,
+        "coverImage": "https://picsum.photos/200/300?random=119"
+    },
+    {
+        "id": 120,
+        "title": "Lightweight Workout Tank",
+        "author": "Devina Rapkins",
+        "genre": "Mystery",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=120"
+    },
+    {
+        "id": 121,
+        "title": "Crafting Kit",
+        "author": "Jacenta Barth",
+        "genre": "Biography",
+        "publishedYear": 1998,
+        "coverImage": "https://picsum.photos/200/300?random=121"
+    },
+    {
+        "id": 122,
+        "title": "Sweet Potato Chips",
+        "author": "Casey Diwell",
+        "genre": "Romance",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=122"
+    },
+    {
+        "id": 123,
+        "title": "Multi-Cooker",
+        "author": "Shurwood Potteril",
+        "genre": "Thriller",
+        "publishedYear": 1988,
+        "coverImage": "https://picsum.photos/200/300?random=123"
+    },
+    {
+        "id": 124,
+        "title": "Puff Pastry",
+        "author": "Lief Kernock",
+        "genre": "Thriller",
+        "publishedYear": 2008,
+        "coverImage": "https://picsum.photos/200/300?random=124"
+    },
+    {
+        "id": 125,
+        "title": "Electric Bike",
+        "author": "Cherey Mountford",
+        "genre": "Thriller",
+        "publishedYear": 2009,
+        "coverImage": "https://picsum.photos/200/300?random=125"
+    },
+    {
+        "id": 126,
+        "title": "Frozen Berry Medley",
+        "author": "Lonna Pickles",
+        "genre": "Biography",
+        "publishedYear": 1996,
+        "coverImage": "https://picsum.photos/200/300?random=126"
+    },
+    {
+        "id": 127,
+        "title": "Sturdy Bookends",
+        "author": "Dion Simonett",
+        "genre": "Fiction",
+        "publishedYear": 2007,
+        "coverImage": "https://picsum.photos/200/300?random=127"
+    },
+    {
+        "id": 128,
+        "title": "Pet Water Fountain",
+        "author": "Lyman Bridges",
+        "genre": "Fantasy",
+        "publishedYear": 1982,
+        "coverImage": "https://picsum.photos/200/300?random=128"
+    },
+    {
+        "id": 129,
+        "title": "LED Camping Lantern with USB Charging",
+        "author": "Thebault Haw",
+        "genre": "Fantasy",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=129"
+    },
+    {
+        "id": 130,
+        "title": "Almond Quinoa Salad",
+        "author": "Tammi Blumsom",
+        "genre": "Thriller",
+        "publishedYear": 1983,
+        "coverImage": "https://picsum.photos/200/300?random=130"
+    },
+    {
+        "id": 131,
+        "title": "Essential Oil Diffuser",
+        "author": "Phillipe Seabridge",
+        "genre": "Thriller",
+        "publishedYear": 1983,
+        "coverImage": "https://picsum.photos/200/300?random=131"
+    },
+    {
+        "id": 132,
+        "title": "Cacao Powder",
+        "author": "Willamina Canty",
+        "genre": "Fantasy",
+        "publishedYear": 1986,
+        "coverImage": "https://picsum.photos/200/300?random=132"
+    },
+    {
+        "id": 133,
+        "title": "Organic Lentil Soup",
+        "author": "Kyla Pirelli",
+        "genre": "Mystery",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=133"
+    },
+    {
+        "id": 134,
+        "title": "Habanero Hot Sauce",
+        "author": "Briny Pettecrew",
+        "genre": "Mystery",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=134"
+    },
+    {
+        "id": 135,
+        "title": "Foldable Picnic Table",
+        "author": "Edmund Corp",
+        "genre": "Self-Help",
+        "publishedYear": 1978,
+        "coverImage": "https://picsum.photos/200/300?random=135"
+    },
+    {
+        "id": 136,
+        "title": "Peach Halves (canned)",
+        "author": "Bari Banaszkiewicz",
+        "genre": "Sci-Fi",
+        "publishedYear": 2022,
+        "coverImage": "https://picsum.photos/200/300?random=136"
+    },
+    {
+        "id": 137,
+        "title": "Underwater Camera",
+        "author": "Arleen Ferencowicz",
+        "genre": "Fiction",
+        "publishedYear": 2002,
+        "coverImage": "https://picsum.photos/200/300?random=137"
+    },
+    {
+        "id": 138,
+        "title": "Dried Cranberries",
+        "author": "Vlad Statton",
+        "genre": "Fiction",
+        "publishedYear": 2021,
+        "coverImage": "https://picsum.photos/200/300?random=138"
+    },
+    {
+        "id": 139,
+        "title": "Travel Orthopedic Pillow",
+        "author": "Alla Gargett",
+        "genre": "Romance",
+        "publishedYear": 1978,
+        "coverImage": "https://picsum.photos/200/300?random=139"
+    },
+    {
+        "id": 140,
+        "title": "Olive Oil",
+        "author": "Florenza Stockow",
+        "genre": "Biography",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=140"
+    },
+    {
+        "id": 141,
+        "title": "Home Karaoke System",
+        "author": "Walden Hawksley",
+        "genre": "Sci-Fi",
+        "publishedYear": 1989,
+        "coverImage": "https://picsum.photos/200/300?random=141"
+    },
+    {
+        "id": 142,
+        "title": "Pumpkin Spice Pancake Mix",
+        "author": "Nita Guilloneau",
+        "genre": "Sci-Fi",
+        "publishedYear": 1972,
+        "coverImage": "https://picsum.photos/200/300?random=142"
+    },
+    {
+        "id": 143,
+        "title": "Rechargeable Hand Warmer",
+        "author": "Hildagarde Sturdgess",
+        "genre": "Fiction",
+        "publishedYear": 2012,
+        "coverImage": "https://picsum.photos/200/300?random=143"
+    },
+    {
+        "id": 144,
+        "title": "Beef Sirloin Steak",
+        "author": "Nara Grisedale",
+        "genre": "Fantasy",
+        "publishedYear": 1973,
+        "coverImage": "https://picsum.photos/200/300?random=144"
+    },
+    {
+        "id": 145,
+        "title": "Garlic Herb Cream Cheese",
+        "author": "Edlin Chape",
+        "genre": "Fantasy",
+        "publishedYear": 2011,
+        "coverImage": "https://picsum.photos/200/300?random=145"
+    },
+    {
+        "id": 146,
+        "title": "Crispy Onion Rings",
+        "author": "Goober Smeeth",
+        "genre": "Fantasy",
+        "publishedYear": 2022,
+        "coverImage": "https://picsum.photos/200/300?random=146"
+    },
+    {
+        "id": 147,
+        "title": "Essential Oil Roller Bottles",
+        "author": "Sydel Dondon",
+        "genre": "Fantasy",
+        "publishedYear": 2013,
+        "coverImage": "https://picsum.photos/200/300?random=147"
+    },
+    {
+        "id": 148,
+        "title": "Freestanding Wine Rack",
+        "author": "Charles Harpur",
+        "genre": "Thriller",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=148"
+    },
+    {
+        "id": 149,
+        "title": "Smart Water Bottle with Hydration Reminder",
+        "author": "Brandy Tippin",
+        "genre": "Biography",
+        "publishedYear": 1992,
+        "coverImage": "https://picsum.photos/200/300?random=149"
+    },
+    {
+        "id": 150,
+        "title": "Snack Container Set",
+        "author": "Jaine Dufer",
+        "genre": "Sci-Fi",
+        "publishedYear": 1999,
+        "coverImage": "https://picsum.photos/200/300?random=150"
+    },
+    {
+        "id": 151,
+        "title": "Smartphone Tripod",
+        "author": "Emmery Simmank",
+        "genre": "Self-Help",
+        "publishedYear": 2006,
+        "coverImage": "https://picsum.photos/200/300?random=151"
+    },
+    {
+        "id": 152,
+        "title": "Personalized Cutting Board",
+        "author": "Zebulon Clemonts",
+        "genre": "Mystery",
+        "publishedYear": 2008,
+        "coverImage": "https://picsum.photos/200/300?random=152"
+    },
+    {
+        "id": 153,
+        "title": "Nutty Granola Clusters",
+        "author": "Kassia Conkay",
+        "genre": "Fiction",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=153"
+    },
+    {
+        "id": 154,
+        "title": "Travel Luggage Scale",
+        "author": "Gertie Kobelt",
+        "genre": "Mystery",
+        "publishedYear": 1992,
+        "coverImage": "https://picsum.photos/200/300?random=154"
+    },
+    {
+        "id": 155,
+        "title": "Cocoa Powder",
+        "author": "Frannie Deer",
+        "genre": "Thriller",
+        "publishedYear": 2023,
+        "coverImage": "https://picsum.photos/200/300?random=155"
+    },
+    {
+        "id": 156,
+        "title": "Almond Joy Snack Bars",
+        "author": "Darleen Bullcock",
+        "genre": "Mystery",
+        "publishedYear": 1999,
+        "coverImage": "https://picsum.photos/200/300?random=156"
+    },
+    {
+        "id": 157,
+        "title": "Sweet Chili Dipping Sauce",
+        "author": "Michaelina Abramsky",
+        "genre": "Thriller",
+        "publishedYear": 1998,
+        "coverImage": "https://picsum.photos/200/300?random=157"
+    },
+    {
+        "id": 158,
+        "title": "Sliced Ham",
+        "author": "Keri Gell",
+        "genre": "Romance",
+        "publishedYear": 2013,
+        "coverImage": "https://picsum.photos/200/300?random=158"
+    },
+    {
+        "id": 159,
+        "title": "Portable Phone Charger",
+        "author": "Sacha Ellum",
+        "genre": "Self-Help",
+        "publishedYear": 2007,
+        "coverImage": "https://picsum.photos/200/300?random=159"
+    },
+    {
+        "id": 160,
+        "title": "Digital Camera",
+        "author": "Gannie Vallentin",
+        "genre": "Self-Help",
+        "publishedYear": 2000,
+        "coverImage": "https://picsum.photos/200/300?random=160"
+    },
+    {
+        "id": 161,
+        "title": "Travel Sewing Kit",
+        "author": "Evey Driscoll",
+        "genre": "Fantasy",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=161"
+    },
+    {
+        "id": 162,
+        "title": "Sriracha Hot Chili Sauce",
+        "author": "Fielding Gyenes",
+        "genre": "Sci-Fi",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=162"
+    },
+    {
+        "id": 163,
+        "title": "Board Game",
+        "author": "Ephrem Dreakin",
+        "genre": "Romance",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=163"
+    },
+    {
+        "id": 164,
+        "title": "Thai Coconut Curry Sauce",
+        "author": "Salomone Tee",
+        "genre": "Self-Help",
+        "publishedYear": 2000,
+        "coverImage": "https://picsum.photos/200/300?random=164"
+    },
+    {
+        "id": 165,
+        "title": "Cotton Sweatpants",
+        "author": "Zaria Tukely",
+        "genre": "Mystery",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=165"
+    },
+    {
+        "id": 166,
+        "title": "Insulated Sport Tumbler",
+        "author": "Barnebas Counihan",
+        "genre": "Fiction",
+        "publishedYear": 2025,
+        "coverImage": "https://picsum.photos/200/300?random=166"
+    },
+    {
+        "id": 167,
+        "title": "Leather Biker Jacket",
+        "author": "Shea Morales",
+        "genre": "Romance",
+        "publishedYear": 1971,
+        "coverImage": "https://picsum.photos/200/300?random=167"
+    },
+    {
+        "id": 168,
+        "title": "Smartwatch",
+        "author": "Thacher Samsonsen",
+        "genre": "Self-Help",
+        "publishedYear": 1985,
+        "coverImage": "https://picsum.photos/200/300?random=168"
+    },
+    {
+        "id": 169,
+        "title": "Organic Baby Carrots",
+        "author": "Broddy Pickersail",
+        "genre": "Sci-Fi",
+        "publishedYear": 1990,
+        "coverImage": "https://picsum.photos/200/300?random=169"
+    },
+    {
+        "id": 170,
+        "title": "Sweet and Spicy Barbecue Sauce",
+        "author": "Annaliese Frankema",
+        "genre": "Fantasy",
+        "publishedYear": 2002,
+        "coverImage": "https://picsum.photos/200/300?random=170"
+    },
+    {
+        "id": 171,
+        "title": "Crispy Chickpeas",
+        "author": "Adelind Minogue",
+        "genre": "Fantasy",
+        "publishedYear": 1974,
+        "coverImage": "https://picsum.photos/200/300?random=171"
+    },
+    {
+        "id": 172,
+        "title": "Wooden Kitchen Utensil Set",
+        "author": "Hyacinthie Shrubb",
+        "genre": "Fantasy",
+        "publishedYear": 1994,
+        "coverImage": "https://picsum.photos/200/300?random=172"
+    },
+    {
+        "id": 173,
+        "title": "Bluetooth Sleep Headphones",
+        "author": "Derrek Blandamere",
+        "genre": "Fantasy",
+        "publishedYear": 1970,
+        "coverImage": "https://picsum.photos/200/300?random=173"
+    },
+    {
+        "id": 174,
+        "title": "Stuffed Grape Leaves",
+        "author": "Robbyn Osbiston",
+        "genre": "Fantasy",
+        "publishedYear": 1990,
+        "coverImage": "https://picsum.photos/200/300?random=174"
+    },
+    {
+        "id": 175,
+        "title": "Chocolate Syrup",
+        "author": "Vaughan Fawlks",
+        "genre": "Fantasy",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=175"
+    },
+    {
+        "id": 176,
+        "title": "Sliced Strawberries",
+        "author": "Malory Lyffe",
+        "genre": "Fantasy",
+        "publishedYear": 2019,
+        "coverImage": "https://picsum.photos/200/300?random=176"
+    },
+    {
+        "id": 177,
+        "title": "Compressible Packing Cubes",
+        "author": "Hannah Waye",
+        "genre": "Fantasy",
+        "publishedYear": 1995,
+        "coverImage": "https://picsum.photos/200/300?random=177"
+    },
+    {
+        "id": 178,
+        "title": "Nutty Quinoa Salad",
+        "author": "Vaughn Clarridge",
+        "genre": "Romance",
+        "publishedYear": 1980,
+        "coverImage": "https://picsum.photos/200/300?random=178"
+    },
+    {
+        "id": 179,
+        "title": "Foldable Yoga Mat",
+        "author": "Carmina Shipley",
+        "genre": "Fiction",
+        "publishedYear": 1999,
+        "coverImage": "https://picsum.photos/200/300?random=179"
+    },
+    {
+        "id": 180,
+        "title": "Body Wash",
+        "author": "Cristi Stepto",
+        "genre": "Fantasy",
+        "publishedYear": 2004,
+        "coverImage": "https://picsum.photos/200/300?random=180"
+    },
+    {
+        "id": 181,
+        "title": "Portable Bluetooth Headphones",
+        "author": "Celine Handforth",
+        "genre": "Biography",
+        "publishedYear": 1998,
+        "coverImage": "https://picsum.photos/200/300?random=181"
+    },
+    {
+        "id": 182,
+        "title": "Yoga Blocks",
+        "author": "Winona Tomblin",
+        "genre": "Mystery",
+        "publishedYear": 1979,
+        "coverImage": "https://picsum.photos/200/300?random=182"
+    },
+    {
+        "id": 183,
+        "title": "Zucchini",
+        "author": "Emery Mallabund",
+        "genre": "Biography",
+        "publishedYear": 1994,
+        "coverImage": "https://picsum.photos/200/300?random=183"
+    },
+    {
+        "id": 184,
+        "title": "Kids' Art Easel",
+        "author": "Ruthy Shulver",
+        "genre": "Self-Help",
+        "publishedYear": 2009,
+        "coverImage": "https://picsum.photos/200/300?random=184"
+    },
+    {
+        "id": 185,
+        "title": "Ricotta Cheese",
+        "author": "Johann Eager",
+        "genre": "Sci-Fi",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=185"
+    },
+    {
+        "id": 186,
+        "title": "Sweet Pea Hummus",
+        "author": "Gerty Potts",
+        "genre": "Fiction",
+        "publishedYear": 1984,
+        "coverImage": "https://picsum.photos/200/300?random=186"
+    },
+    {
+        "id": 187,
+        "title": "Honey-Balsamic Vinaigrette",
+        "author": "Carline Godain",
+        "genre": "Biography",
+        "publishedYear": 1985,
+        "coverImage": "https://picsum.photos/200/300?random=187"
+    },
+    {
+        "id": 188,
+        "title": "Mushroom Soup (canned)",
+        "author": "Grant Thomasson",
+        "genre": "Biography",
+        "publishedYear": 2023,
+        "coverImage": "https://picsum.photos/200/300?random=188"
+    },
+    {
+        "id": 189,
+        "title": "Lightweight Rain Jacket",
+        "author": "Jeanie Perri",
+        "genre": "Self-Help",
+        "publishedYear": 2014,
+        "coverImage": "https://picsum.photos/200/300?random=189"
+    },
+    {
+        "id": 190,
+        "title": "Spicy Vegetable Sushi Rolls",
+        "author": "Davina Farnill",
+        "genre": "Fantasy",
+        "publishedYear": 1997,
+        "coverImage": "https://picsum.photos/200/300?random=190"
+    },
+    {
+        "id": 191,
+        "title": "Leather Biker Jacket",
+        "author": "Sheba Wibberley",
+        "genre": "Self-Help",
+        "publishedYear": 1992,
+        "coverImage": "https://picsum.photos/200/300?random=191"
+    },
+    {
+        "id": 192,
+        "title": "Spinach Artichoke Dip",
+        "author": "Masha Tante",
+        "genre": "Fantasy",
+        "publishedYear": 2011,
+        "coverImage": "https://picsum.photos/200/300?random=192"
+    },
+    {
+        "id": 193,
+        "title": "Electric Stool Heater",
+        "author": "Thomasina Larchiere",
+        "genre": "Fantasy",
+        "publishedYear": 2007,
+        "coverImage": "https://picsum.photos/200/300?random=193"
+    },
+    {
+        "id": 194,
+        "title": "Electric Griddle with Removable Plates",
+        "author": "Gordie Staley",
+        "genre": "Biography",
+        "publishedYear": 2011,
+        "coverImage": "https://picsum.photos/200/300?random=194"
+    },
+    {
+        "id": 195,
+        "title": "Honey mustard chicken tenders",
+        "author": "Erek Station",
+        "genre": "Mystery",
+        "publishedYear": 1972,
+        "coverImage": "https://picsum.photos/200/300?random=195"
+    },
+    {
+        "id": 196,
+        "title": "Smart Water Bottle",
+        "author": "Jobyna Roads",
+        "genre": "Biography",
+        "publishedYear": 1974,
+        "coverImage": "https://picsum.photos/200/300?random=196"
+    },
+    {
+        "id": 197,
+        "title": "Faux Leather Leggings",
+        "author": "Brendis Proback",
+        "genre": "Fiction",
+        "publishedYear": 1982,
+        "coverImage": "https://picsum.photos/200/300?random=197"
+    },
+    {
+        "id": 198,
+        "title": "Rustic Wooden Picture Frame",
+        "author": "Piotr Duetsche",
+        "genre": "Sci-Fi",
+        "publishedYear": 1977,
+        "coverImage": "https://picsum.photos/200/300?random=198"
+    },
+    {
+        "id": 199,
+        "title": "Ramen Noodles",
+        "author": "Farra Ings",
+        "genre": "Fantasy",
+        "publishedYear": 1987,
+        "coverImage": "https://picsum.photos/200/300?random=199"
+    },
+    {
+        "id": 200,
+        "title": "Fitness Resistance Bands",
+        "author": "Stacia Sarath",
+        "genre": "Self-Help",
+        "publishedYear": 1980,
+        "coverImage": "https://picsum.photos/200/300?random=200"
+    },
+    {
+        "id": 201,
+        "title": "Handheld Garment Steamer",
+        "author": "Mehetabel Prendergrass",
+        "genre": "Mystery",
+        "publishedYear": 1976,
+        "coverImage": "https://picsum.photos/200/300?random=201"
+    },
+    {
+        "id": 202,
+        "title": "Plant Growing Kit",
+        "author": "Saree Adolphine",
+        "genre": "Self-Help",
+        "publishedYear": 1990,
+        "coverImage": "https://picsum.photos/200/300?random=202"
+    },
+    {
+        "id": 203,
+        "title": "Coconut Flakes",
+        "author": "Beale Pauly",
+        "genre": "Thriller",
+        "publishedYear": 1975,
+        "coverImage": "https://picsum.photos/200/300?random=203"
+    },
+    {
+        "id": 204,
+        "title": "Classic Pesto Sauce",
+        "author": "Seamus Skirven",
+        "genre": "Fiction",
+        "publishedYear": 1974,
+        "coverImage": "https://picsum.photos/200/300?random=204"
+    },
+    {
+        "id": 205,
+        "title": "Classic Cheesecake Mix",
+        "author": "Dimitri Varfolomeev",
+        "genre": "Self-Help",
+        "publishedYear": 1976,
+        "coverImage": "https://picsum.photos/200/300?random=205"
+    }
+]

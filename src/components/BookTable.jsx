@@ -5,12 +5,26 @@ const BookTable = ({ books, onEdit, onDelete }) => {
     <table className="table w-full">
       <thead>
         <tr>
-          <th>Title</th><th>Author</th><th>Genre</th><th>Year</th><th>Actions</th>
+          <th>Cover</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Genre</th>
+          <th>Year</th>
+          <th>Actions</th>
         </tr>
       </thead>
       <tbody>
-        {books.map(book => (
+        {(books || []).map(book => (
           <tr key={book.id}>
+            <td>{book.coverImage ? (
+              <img
+                src={book.coverImage}
+                alt={`${book.title} cover`}
+                style={{ width: '60px', height: '90px', objectFit: 'cover', borderRadius: '4px' }}
+              />
+            ) : (
+              <span>No Image</span>
+            )}</td>
             <td>{book.title}</td>
             <td>{book.author}</td>
             <td>{book.genre}</td>
@@ -24,6 +38,6 @@ const BookTable = ({ books, onEdit, onDelete }) => {
       </tbody>
     </table>
   );
-}
+};
 
 export default BookTable;

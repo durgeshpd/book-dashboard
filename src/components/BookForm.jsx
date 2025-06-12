@@ -14,9 +14,10 @@ const BookForm = ({ defaultValues, onSubmit }) => {
       <input {...register('author')} placeholder="Author" className="input input-bordered w-full" />
       <input {...register('genre')} placeholder="Genre" className="input input-bordered w-full" />
       <input type="number" {...register('publishedYear')} placeholder="Year" className="input input-bordered w-full" />
+      <input {...register('coverImage')} placeholder="Cover Image URL" className="input input-bordered w-full" />
       <button type="submit" className="btn btn-primary w-full">Submit</button>
     </form>
   );
-}
+};
 
 export default BookForm;

@@ -1,11 +1,10 @@
-import axios from 'axios';
+export const getBooks = () =>
+  fetch('/books.json')
+    .then(res => {
+      if (!res.ok) throw new Error('Failed to fetch books.json');
+      return res.json();
+    });
 
-const BASE_URL = "https://684a46db165d05c5d35829ec.mockapi.io/books";
-
-export const getBooks = () => axios.get(BASE_URL);
-
-export const addBook = (data) => axios.post(BASE_URL, data);
-
-export const updateBook = (id, data) => axios.put(`${BASE_URL}/${id}`, data);
-
-export const deleteBook = (id) => axios.delete(`${BASE_URL}/${id}`);
+export const addBook = (data) => Promise.reject(new Error("Add not supported with local JSON"));
+export const updateBook = (id, data) => Promise.reject(new Error("Update not supported with local JSON"));
+export const deleteBook = (id) => Promise.reject(new Error("Delete not supported with local JSON"));
