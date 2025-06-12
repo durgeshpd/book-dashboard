@@ -1,4 +1,5 @@
 📚 Book Management Dashboard
+
 A modern, responsive Book Management Dashboard built using React, Tailwind CSS (with DaisyUI), Framer Motion, and React Hook Form. It includes features like book listing, adding, editing, deleting, and animated loading skeletons for a better user experience.
 
 🔗 Live Application  
@@ -70,4 +71,5 @@ Use the Delete button to remove a book (with confirmation)
 🛠️ Add real API endpoints by replacing dummy/mock logic
 
 📬 Contact
+
 Feel free to open an issue or submit a pull request if you have ideas or improvements.
