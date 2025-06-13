@@ -44,7 +44,7 @@ This will take you directly to the BookDashboard.
 
 📦 Installation
 ```bash
-git clone https://github.com/your-username/book-dashboard.git
+git clone https://github.com/durgeshpd/book-dashboard.git
 cd book-dashboard
 npm install
 npm run dev
